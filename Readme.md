@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React JS, Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://dibyataru-chakraborty.vercel.app](dibyataru-chakraborty.vercel.app)
+- 👨‍💻 All of my projects are available at [dibyataru-chakraborty](https://dibyataru-chakraborty.vercel.app)
 
-- 📄 Know about my experiences [https://dibyataru-chakraborty.vercel.app/Dibyataru.pdf](dibyataru-chakraborty.vercel.app/Dibyataru.pdf)
+- 📄 Know about my experiences [Dibyataru.pdf](https://dibyataru-chakraborty.vercel.app/Dibyataru.pdf)
 
 - ⚡ Fun fact **There are many names for people who code: Coders, Programmers, Developers, Software Engineer, etc.**
 
