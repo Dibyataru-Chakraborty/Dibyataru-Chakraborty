@@ -21,7 +21,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a BCA Student <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> from India.
+I am a MCA Student <a href="#"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> from India.
 
 - :telescope: :seedling: Exploring Technical Content.
 
