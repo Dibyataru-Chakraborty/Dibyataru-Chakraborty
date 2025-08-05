@@ -1,34 +1,70 @@
-<h1 align="center">Hi 👋, I'm Dibyataru Chakraborty</h1>
-<h3 align="center">A passionate backend developer from India, I write code, build infrastructure, and create digital experiences.</h3>
+# 👨‍💻 Dibyataru Chakraborty
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dibyataru-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="dibyataru-chakraborty" /> </p>
+**Cybersecurity Enthusiast | Developer | Python Automation | OSINT & EDR Tools Builder**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+🚀 Passionate about building secure systems, automating tasks, and solving real-world problems through code.
 
-- 🌱 I’m currently learning **React JS, Cyber Security**
-
-- 👨‍💻 All of my projects are available at [dibyataru-chakraborty](https://dibyataru-chakraborty.vercel.app)
-
-- 📄 Know about my experiences [Dibyataru.pdf](https://dibyataru-chakraborty.vercel.app/Dibyataru.pdf)
-
-- ⚡ Fun fact **There are many names for people who code: Coders, Programmers, Developers, Software Engineer, etc.**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dibyataruchakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dibyataruchakraborty" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dibyataru-chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyataru-chakraborty" height="30" width="40" /></a>
-<a href="https://fb.com/r.d.chakraborty16112001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r.d.chakraborty16112001" height="30" width="40" /></a>
-<a href="https://instagram.com/_chakraborty__dibyataru_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chakraborty__dibyataru_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dibyataru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dibyataru" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dibyataru_chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dibyataru_chakraborty" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dibyataru-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyataru-chakraborty&show_icons=true&locale=en&layout=compact" alt="dibyataru-chakraborty" /></p>
+### 🚀 Tech Stack & Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyataru-chakraborty&show_icons=true&locale=en" alt="dibyataru-chakraborty" /></p>
+- 🐍 Python, Bash, JavaScript (React, Node.js)
+- 🔐 OWASP Top 10, Burp Suite, Nmap, Wireshark, Metasploit
+- 🕵️‍♂️ OSINT, Bug Bounty Labs, Vulnerability Scanning
+- 🌐 MongoDB, Express, React, Node (MERN)
+- ☁️ Firebase, Linux, Git, Docker (basic)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyataru-chakraborty&" alt="dibyataru-chakraborty" /></p>
+---
+
+### 🛠️ My Top Projects
+
+| Project | Description |
+|--------|-------------|
+| [System-Security-Benchmark](https://github.com/Dibyataru-Chakraborty/System-Security-Benchmark) | Python tool for auditing Linux systems against security benchmarks |
+| 🔐 JWT Cracker | Brute-force + wordlist JWT signature cracker. | Python, HMAC |
+| [Qrpay](https://github.com/Dibyataru-Chakraborty/Qrpay) | Secure Python+Firebase payment software for retail use |
+| [DigiSamurai](https://github.com/Dibyataru-Chakraborty/DigiSamurai) | Security & DevOps community website (Next.js + Tailwind) |
+
+➡️ More in progress: OSINT Tool | Secure Auth System | Bug Reports...
+
+---
+
+### 🧠 Currently Learning
+
+- Advanced Web Exploitation (XSS, SSRF, IDOR)
+- Building my own mini EDR system
+- Python Automation for Recon & Reporting
+
+---
+
+### ✍️ Writeups / Labs (Coming Soon)
+
+📁 [TryHackMe & Bug Bounty Labs](#)  
+📁 [Vulnerable Web App Reports](#)  
+📁 [OSINT Reports & Tools](#)
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dibyataru-chakraborty" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+</p>
+
+---
+
+> 💡 _“Always learning. Always breaking. Always building.”_
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyataru-chakraborty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyataru-chakraborty&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyataru-chakraborty&" alt="GitHub Streak" /></p>
