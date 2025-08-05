@@ -24,7 +24,8 @@
 
 | Project | Description |
 |--------|-------------|
-| [System-Security-Benchmark](https://github.com/Dibyataru-Chakraborty/System-Security-Benchmark) | Python tool for auditing Linux systems against security benchmarks |
+| [Windows-System-Security-Benchmark](https://github.com/Dibyataru-Chakraborty/System-Security-Benchmark) | Python tool for auditing Windows systems against security benchmarks |
+| [Linux-System-Security-Benchmark](https://github.com/Dibyataru-Chakraborty/System-Security-Benchmark) | Python tool for auditing Linux systems against security benchmarks |
 | 🔐 JWT Cracker | Brute-force + wordlist JWT signature cracker. | Python, HMAC |
 | [Qrpay](https://github.com/Dibyataru-Chakraborty/Qrpay) | Secure Python+Firebase payment software for retail use |
 | [DigiSamurai](https://github.com/Dibyataru-Chakraborty/DigiSamurai) | Security & DevOps community website (Next.js + Tailwind) |
