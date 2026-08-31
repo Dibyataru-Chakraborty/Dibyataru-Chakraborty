@@ -1,71 +1,153 @@
-# 👨‍💻 Dibyataru Chakraborty
+# Dibyataru Chakraborty
 
-**Cybersecurity Enthusiast | Developer | Python Automation | OSINT & EDR Tools Builder**
+### Cybersecurity Analyst · Security Automation · Application Security · Python
 
-🚀 Passionate about building secure systems, automating tasks, and solving real-world problems through code.
+Cybersecurity professional focused on **security assessment, vulnerability research, security automation, and defensive tooling**.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dibyataru-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+I build practical security tools and automation workflows designed to improve **system visibility, security validation, vulnerability detection, and security operations**.
 
----
-
-### 🚀 Tech Stack & Skills
-
-- 🐍 Python, Bash, JavaScript (React, Node.js)
-- 🔐 OWASP Top 10, Burp Suite, Nmap, Wireshark, Metasploit
-- 🕵️‍♂️ OSINT, Bug Bounty Labs, Vulnerability Scanning
-- 🌐 MongoDB, Express, React, Node (MERN)
-- ☁️ Firebase, Linux, Git, Docker (basic)
+My interests sit at the intersection of **Application Security, Endpoint Security, Security Engineering, OSINT, and Python automation**.
 
 ---
 
-### 🛠️ My Top Projects
+## 🔐 Security Focus
+
+- Application Security & Web Security
+- Vulnerability Assessment & Security Testing
+- OWASP Top 10
+- Windows & Linux Security Hardening
+- Security Baseline & Benchmark Auditing
+- Endpoint Detection & Response
+- Security Automation & Reporting
+- OSINT & Reconnaissance
+- Authentication & Access Control
+- Log Analysis & Security Monitoring
+- Secure Development Practices
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔒 Cybersecurity
+
+`OWASP` `Burp Suite` `Nmap` `Wireshark` `Metasploit` `YARA`
+
+### 🐍 Programming & Automation
+
+`Python` `Bash` `PowerShell` `JavaScript`
+
+### 🌐 Web & Backend
+
+`React` `Node.js` `Express.js` `Next.js` `REST APIs`
+
+### 🖥️ Systems & Infrastructure
+
+`Windows` `Linux` `Docker` `Git`
+
+### 🗄️ Databases & Cloud
+
+`MongoDB` `Firebase`
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| [Windows-System-Security-Benchmark](https://github.com/Dibyataru-Chakraborty/System-Security-Benchmark) | Python tool for auditing Windows systems against security benchmarks |
-| [Linux-System-Security-Benchmark](https://github.com/Dibyataru-Chakraborty/System-Security-Benchmark) | Python tool for auditing Linux systems against security benchmarks |
-| 🔐 JWT Cracker | Brute-force + wordlist JWT signature cracker. | Python, HMAC |
-| [Qrpay](https://github.com/Dibyataru-Chakraborty/Qrpay) | Secure Python+Firebase payment software for retail use |
-| [DigiSamurai](https://github.com/Dibyataru-Chakraborty/DigiSamurai) | Security & DevOps community website (Next.js + Tailwind) |
+|---|---|
+| **Windows Security Benchmark** | Python-based security auditing and baseline validation for Windows environments. |
+| **Linux Security Benchmark** | Security auditing and configuration assessment tooling for Linux systems. |
+| **Qrpay** | Python and Firebase-based application developed with a focus on secure application design. |
+| **DigiSamurai** | Security and DevOps community platform built with modern web technologies. |
+| **Security Automation Tools** | Python-based utilities for security assessment, analysis, reconnaissance, and reporting. |
 
-➡️ More in progress: OSINT Tool | Secure Auth System | Bug Reports...
-
----
-
-### 🧠 Currently Learning
-
-- Advanced Web Exploitation (XSS, SSRF, IDOR)
-- Building my own mini EDR system
-- Python Automation for Recon & Reporting
+> 🔒 Security-sensitive implementation details, credentials, infrastructure information, client information, and target-specific data are intentionally excluded from public repositories.
 
 ---
 
-### ✍️ Writeups / Labs (Coming Soon)
+## 🧠 Currently Exploring
 
-📁 [TryHackMe & Bug Bounty Labs](#)  
-📁 [Vulnerable Web App Reports](#)  
-📁 [OSINT Reports & Tools](#)
+- Advanced Web Application Security
+- Security Automation with Python
+- Endpoint Detection & Response
+- Windows & Linux Security Architecture
+- Vulnerability Research
+- Threat Detection & Log Analysis
+- Secure Authentication & Authorization
+- Security Assessment Automation
+- Detection Engineering
 
 ---
 
-### 📫 Connect With Me
+## 🧪 Security Research & Labs
+
+I use controlled labs and authorized environments to explore:
+
+- Web application vulnerabilities
+- Authentication & authorization weaknesses
+- Security misconfigurations
+- Endpoint security controls
+- Detection engineering
+- Reconnaissance techniques
+- Security automation
+- Defensive security tooling
+- System hardening and security baselines
+
+All security testing is performed in **authorized environments for security research, testing, and educational purposes**.
+
+---
+
+## 📚 Documentation & Write-ups
+
+Technical research, lab work, security notes, and project documentation will be published progressively.
+
+### Planned Topics
+
+- Security Assessment Write-ups
+- Web Security Labs
+- Windows & Linux Hardening
+- Detection Engineering
+- Security Automation
+- Vulnerability Research
+- Defensive Security Techniques
+
+---
+
+## 🔭 What I'm Building
+
+Currently interested in building practical security tooling around:
+
+```mermaid
+flowchart TD
+    A["Security Assessment"] --> B["Automation"]
+    B --> C["Detection & Analysis"]
+    C --> D["Reporting"]
+    D --> E["Security Improvement"]
+```
+
+The goal is to turn repetitive security tasks into **reliable, auditable, and reusable workflows**.
+
+---
+
+## 📈 GitHub
+
+My repositories contain security research, automation projects, development experiments, and practical tooling.
+
+> ⭐ Check out the repositories below to explore my current work.
+
+---
+
+## 🤝 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/dibyataru-chakraborty" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dibyataru-chakraborty" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-> 💡 _“Always learning. Always breaking. Always building.”_
+### 💡 Security is not just about finding weaknesses — it's about understanding them, reducing risk, and building better systems.
 
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dibyataru-chakraborty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <sub>Building • Breaking in Labs • Automating • Learning • Securing</sub>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyataru-chakraborty&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyataru-chakraborty&" alt="GitHub Streak" /></p>
